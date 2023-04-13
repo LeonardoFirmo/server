@@ -1,19 +1,18 @@
 {
-  "profile": [
+  "users": [
     {
-      "nome": "Leonardo F",
-      "email": "leo@email.com",
+      "nome": "",
+      "on": 0,
+      "Ataque":8,
+      "Vida":100,
       "id": 1
     },
     {
-      "nome": "Lucas",
-      "email": "lucas@email.com",
+      "nome": "",
+      "on": 0,
+      "Ataque":8,
+      "Vida":100,
       "id": 2
-    },
-    {
-      "nome": "marcos",
-      "email": "marcos@email.com",
-      "id": 3
     }
   ]
 }
