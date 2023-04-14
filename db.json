@@ -5,6 +5,7 @@
       "Ataque": 8,
       "Vida": 100,
       "PlayerVez":0,
+      "selecionado":0,
       "id": 1
     },
     {
@@ -12,6 +13,7 @@
       "Ataque": 8,
       "Vida": 100,
       "PlayerVez":0,
+      "selecionado":0,
       "id": 2
     }
   ],
