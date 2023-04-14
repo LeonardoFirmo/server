@@ -1,24 +1,28 @@
 {
-  "users":[
+  "users": [
     {
       "nome": "Yasuo",
       "Ataque": 8,
       "Vida": 100,
+      "PlayerVez":0,
       "id": 1
     },
     {
       "nome": "Vayne",
       "Ataque": 8,
       "Vida": 100,
+      "PlayerVez":0,
       "id": 2
-    },
-   {
+    }
+  ],
+  "fight": [
+    {
       "nome": "Batalha",
       "on": 0,
-      "PlayerVez":0
-      "id": 3
+      "id": 1
     }
   ]
+ 
 }
 
 
