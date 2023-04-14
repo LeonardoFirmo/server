@@ -1,18 +1,24 @@
 {
-  "users": [
+  "users":[
     {
       "nome": "",
-      "on": 0,
-      "Ataque":8,
-      "Vida":100,
+      "Ataque": 8,
+      "Vida": 100,
       "id": 1
     },
     {
       "nome": "",
-      "on": 0,
-      "Ataque":8,
-      "Vida":100,
+      "Ataque": 8,
+      "Vida": 100,
       "id": 2
+    },
+   {
+      "nome": "Batalha",
+      "on": 0,
+      "PlayerVez":0
+      "id": 3
     }
   ]
 }
+
+
